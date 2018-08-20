@@ -2,13 +2,6 @@ learn git
 
 learn git1
 
-learn git2
 
-learn git3
-
-git4
-git5
-git6
-git7
 
 
